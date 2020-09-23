@@ -38,7 +38,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.ihsinformatics.gfatm-notifications.email.GfatmNotificationsMain.java</mainClass>
+							<mainClass>com.ihsinformatics.gfatmnotifications.email.GfatmNotificationsMain</mainClass>
           				</manifest>
         			</archive>
       			</configuration>
